@@ -1,0 +1,6 @@
+RHC,5500,testing accuracy,25.453,training time,93.450,testing time,0.025
+RHC,6000,testing accuracy,33.254,training time,101.491,testing time,0.022
+RHC,6500,testing accuracy,45.022,training time,113.361,testing time,0.019
+RHC,7000,testing accuracy,51.693,training time,122.306,testing time,0.019
+RHC,7500,testing accuracy,56.654,training time,125.736,testing time,0.024
+RHC,7000,testing accuracy,29.148,training time,124.953,testing time,0.017
