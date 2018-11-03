@@ -1,6 +1,5 @@
 ### CS7641 Assignment 3
-### Federico Ciner (fciner3)
-### Spring 2018
+### Fall 2018
 
 This project contains all of the necessary code and data to run the experiments used in CS7641 Assignment 3.
 
